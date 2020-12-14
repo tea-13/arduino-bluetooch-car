@@ -1,10 +1,12 @@
 # Arduino_Bluetooth_Car
 Ru: Машина работаюшая по блютуз. Данный проект максимально простой с точки зрения кода и сборки.
-На моторы следует поставить керамические конденсаторы 0.1 - 1 мкФ
+На моторы следует поставить керамические конденсаторы 0.1 - 1 мкФ.
 
 En: Bluetooth car.  This project is as simple as possible in terms of code and assembly. 
+Ceramic capacitors 0.1 - 1 μF should be installed on the motors. 
 
-Пины подключения:
+Пины/Pin:
+
 arduino -> bluetooth Hc-06
 2 -> TXD;
 3 -> RXD;
