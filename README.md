@@ -1,26 +1,25 @@
-![project_photo](plug.jpg)
 
 
-# Bluetooth машинка на Arduino
+# Bluetooth car on Arduino
 
-## Оглавление
+## Contents
 
-* [Возможности проекта](#chapter-1)
-* [Детали и ссылки на покупку](#chapter-2)
-* [Схема и подключение](#chapter-3)
+* [Project capabilities](#chapter-1)
+* [Details and links for purchase](#chapter-2)
+* [Scheme and connection](#chapter-3)
 
 <a id="chapter-1"/>
 
-## Возможности проекта
+## Project capabilities
 
-+ Управление моторами по танковой схеме
++ Controlling motors using a tank scheme
 
-+ Приложение на телефон
++ Application for phone
 
 
 <a id="chapter-2"/>
 
-## Детали и ссылки на покупку
+## Details and links for purchase
 
 + Arduino Nano [ссылка](https://clck.ru/324jT7)
 
@@ -28,13 +27,13 @@
 
 + TB6612 [ссылка](https://clck.ru/32DTxb)
 
-+ Motor [ссылка](https://clck.ru/32DTyg)
++ Motor with gearbox 1:90 for Arduino  [ссылка](https://clck.ru/32DTyg)
 
-+ Конденсатор [ссылка](https://clck.ru/32DU64)
++ Ceramic capacitor 100 nF [ссылка](https://clck.ru/32DU64)
 
 <a id="chapter-3"/>
 
-## Схема подключения
+## Scheme and connection
 
 ![scheme](schemes/Scheme.png)
 
